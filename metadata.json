@@ -1,0 +1,5 @@
+{
+  "name": "Gradient Explorer - 梯度探索者",
+  "description": "一个类似3Blue1Brown风格的交互式教学工具，旨在通过可视化帮助学生理解多元微积分中的梯度概念。包含实时矢量场、热力图以及AI辅助教学。",
+  "requestFramePermissions": []
+}
